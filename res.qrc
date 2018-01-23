@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>SpaceInvadersBg.jpg</file>
+        <file>sp.png</file>
+        <file>cannon.png</file>
+        <file>enemy.gif</file>
+        <file>shoot.gif</file>
+        <file>BlueInvader.png</file>
+        <file>PinkInvader.png</file>
+        <file>RedInvader.png</file>
+        <file>blueCannon.png</file>
+        <file>blueShoot.png</file>
+        <file>pinkCannon.png</file>
+        <file>pinkShoot.png</file>
+        <file>redCannon.png</file>
+        <file>redShoot.png</file>
+        <file>mainLogo.png</file>
+        <file>gameOver.png</file>
+        <file>invader.png</file>
+        <file>over.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>shoot.wav</file>
+        <file>bgMusic.wav</file>
+        <file>changeCannonColor.wav</file>
+        <file>dontHit.wav</file>
+        <file>explosion.wav</file>
+        <file>gameOver.wav</file>
+        <file>hitAlien.wav</file>
+    </qresource>
+</RCC>
